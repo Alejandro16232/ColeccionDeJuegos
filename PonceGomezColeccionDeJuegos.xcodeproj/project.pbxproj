@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A9B9207B2BEBD5DD00C5AC4B /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9B9207A2BEBD5DD00C5AC4B /* JuegosViewController.swift */; };
 		A9E20D552BE9999C00930A98 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9E20D542BE9999C00930A98 /* AppDelegate.swift */; };
 		A9E20D572BE9999C00930A98 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9E20D562BE9999C00930A98 /* SceneDelegate.swift */; };
 		A9E20D592BE9999C00930A98 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9E20D582BE9999C00930A98 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A9B9207A2BEBD5DD00C5AC4B /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 		A9E20D512BE9999C00930A98 /* PonceGomezColeccionDeJuegos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PonceGomezColeccionDeJuegos.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9E20D542BE9999C00930A98 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A9E20D562BE9999C00930A98 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				A9E20D562BE9999C00930A98 /* SceneDelegate.swift */,
 				A9E20D582BE9999C00930A98 /* ViewController.swift */,
 				A9E20D5A2BE9999C00930A98 /* Main.storyboard */,
+				A9B9207A2BEBD5DD00C5AC4B /* JuegosViewController.swift */,
 				A9E20D602BE9999E00930A98 /* Assets.xcassets */,
 				A9E20D622BE9999E00930A98 /* LaunchScreen.storyboard */,
 				A9E20D652BE9999E00930A98 /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A9B9207B2BEBD5DD00C5AC4B /* JuegosViewController.swift in Sources */,
 				A9E20D5F2BE9999C00930A98 /* PonceGomezColeccionDeJuegos.xcdatamodeld in Sources */,
 				A9E20D592BE9999C00930A98 /* ViewController.swift in Sources */,
 				A9E20D552BE9999C00930A98 /* AppDelegate.swift in Sources */,
